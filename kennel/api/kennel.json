@@ -1,10 +1,6 @@
 {
   "employees": [
     {
-      "id": 1,
-      "name": "Jessica Younker"
-    },
-    {
       "id": 2,
       "name": "Jordan Nelson"
     },
@@ -43,10 +39,6 @@
       "name": "Angus"
     },
     {
-      "id": 4,
-      "name": "Henley"
-    },
-    {
       "id": 5,
       "name": "Derkins"
     },
@@ -60,11 +52,6 @@
       "id": 1,
       "name": "Bob",
       "phoneNumber": "615-111-1111"
-    },
-    {
-      "id": 2,
-      "name": "Susie",
-      "phoneNumber": "615-111-1112"
     },
     {
       "id": 3,

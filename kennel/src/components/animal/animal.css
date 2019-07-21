@@ -1,4 +1,4 @@
-/* .animals {
+.animals {
     display: flex;
     justify-content: space-evenly;
 }
@@ -22,4 +22,4 @@
 .card-link {
     margin: 12px 0 0 0;
     font-size: 0.7em;
-} */
+}
